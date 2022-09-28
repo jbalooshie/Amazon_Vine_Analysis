@@ -6,13 +6,13 @@ In this analysis, we take a dataset for a specific product category. We created 
 
 ## Results
 * There were 170 Vine reviews and 37840 non-Vine reviews
-[Vine vs non-Vine totals](/images/image_1.PNG)
+![Vine vs non-Vine totals](/images/image_1.PNG)
 
 * There were 65 5 stars Vine reviews and 20612 5 stars non-Vine reviews. 
-[5 stars Vine vs non-Vine](/images/image_2.PNG)
+![5 stars Vine vs non-Vine](/images/image_2.PNG)
 
 * 38.2% of the Vine reviews were 5 stars and 54.5% of the non-Vine reviews were 5 stars. 
-[% of 5 stars Vine vs non-Vine](/images/image_3.PNG)
+![% of 5 stars Vine vs non-Vine](/images/image_3.PNG)
 
 ## Summary
 ### Potential for positivity bias
