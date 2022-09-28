@@ -1,4 +1,8 @@
 # Amazon_Vine_Analysis
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 12 Challenge. This challenge built on SQL and Python skills while also introducing linking work to an AWS RDS. Topics covered including setting up an AWS RDS, using PySpark, and loading tables into AWS. 
+
+27 SEP 2022 - Updated repo to better organize files and add some context to README
+
 ## Overview of the analysis
 The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. Companies listing their products on Amazon can pay a fee to have their products provided to individuals who are required to write a review. These individuals do not pay for the products, so it would be helpful to know if this creates an incentive to write a positive review. 
 
